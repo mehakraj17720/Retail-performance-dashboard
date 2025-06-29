@@ -20,5 +20,6 @@ This Power BI dashboard analyzes international online retail data, tracking sale
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard Preview](dashboard-screenshot.png)
+
 
